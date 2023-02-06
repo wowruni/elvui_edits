@@ -2,7 +2,8 @@
 
 ElvUI Version 6.08
 
-Bit of spaghetti code added to delete worthless trash below 80s. Right click the gold datatext to delete. After installing, The mod should be working after a /reload. Enjoy!
+Bit of spaghetti code added to delete worthless trash below 80s. Right click the gold datatext to delete.
+After installing, The mod should be working after a /reload. Enjoy!
 
 Installation:
 
