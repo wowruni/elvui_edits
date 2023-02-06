@@ -2,8 +2,7 @@
 
 ElvUI Version 6.08
 
-Bit of spaghetti code added to delete worthless trash below 80s. Right click the gold datatext to delete.
-
+Bit of spaghetti code added to delete worthless trash below 80s. Right click the gold datatext to delete. After installing, The mod should be working after a /reload. Enjoy!
 
 Installation:
 
@@ -20,5 +19,4 @@ Installation:
 - Create backup of Gold.lua (rename to eg. Gold.lua.old)
 
 - Download Gold.lua into this folder.
-
 
