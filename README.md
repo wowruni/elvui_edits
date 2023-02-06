@@ -9,7 +9,7 @@ Installation:
 
 - Navigate to \<your wow install folder\>\Interface\AddOns\ElvUI\Modules\Bags
 
-- Create backup of bags.lua (rename to eg. bags.lua.old)
+- Create backup of Bags.lua (rename to eg. Bags.lua.old)
 
 - Download Bags.lua into this folder.
 
@@ -17,7 +17,7 @@ Installation:
 
 - Navigate to \<your wow install folder\>\Interface\AddOns\ElvUI\Modules\DataTexts
 
-- Create backup of gold.lua (rename to eg. gold.lua.old)
+- Create backup of Gold.lua (rename to eg. Gold.lua.old)
 
 - Download Gold.lua into this folder.
 
