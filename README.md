@@ -7,8 +7,18 @@ Bit of spaghetti code added to delete worthless trash below 80s. Right click the
 
 Installation:
 
-- Navigate to <your wow install folder>\Interface\AddOns\ElvUI\Modules\DataTexts
+- Navigate to \<your wow install folder\>\Interface\AddOns\ElvUI\Modules\Bags
 
-- Create backups of bags.lua and gold.lua (rename them to eg. bags.lua.old and gold.lua.old)
+- Create backup of bags.lua (rename to eg. bags.lua.old)
 
-- Download the edited files into this folder.
+- Download Bags.lua into this folder.
+
+
+
+- Navigate to \<your wow install folder\>\Interface\AddOns\ElvUI\Modules\DataTexts
+
+- Create backup of gold.lua (rename to eg. gold.lua.old)
+
+- Download Gold.lua into this folder.
+
+
